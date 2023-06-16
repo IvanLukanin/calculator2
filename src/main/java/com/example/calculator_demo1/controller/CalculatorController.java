@@ -1,6 +1,6 @@
 package com.example.calculator_demo1.controller;
 
-import com.example.skyprocalculator.service.CalculatorService;
+import com.example.calculator_demo1.service.CalculatorService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
